@@ -1,0 +1,15 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\HP\Documents\LTspice\Draft1.net
+Start Time: Sun Sep 21 09:05:25 2025
+Options: tnom=0
+solver = Normal
+Maximum thread count: 32
+tnom = 0
+temp = 27
+method = trap
+.step 
+Total elapsed time: 0.052 seconds.
+
+Files loaded:
+C:\Users\HP\Documents\LTspice\Draft1.net
+

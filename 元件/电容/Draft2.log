@@ -1,0 +1,14 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\HP\Documents\LTspice\Draft2.net
+Start Time: Sun Sep 21 09:20:46 2025
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = trap
+Per .tran options, skipping operating point for transient analysis.
+Total elapsed time: 0.048 seconds.
+
+Files loaded:
+C:\Users\HP\Documents\LTspice\Draft2.net
+
